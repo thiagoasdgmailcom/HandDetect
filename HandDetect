@@ -1551,6 +1551,8 @@ def main():
     )
     #args = parser.parse_args()
 
+    #--- MODIFICAR ESSAS LINHAS PARA O LOCAL DOS MODELOS
+
     model_hand = GoldYOLOONNX(
         model_path='/Users/tecnologia/Downloads/gold_yolo_n_hand_post_0303_0.4172_1x3x480x640.onnx',
     )
